@@ -1,7 +1,7 @@
 /*
 @author: Melissa Randolph
 @date: 07/3/2026
-@purpose: Creating a program that would create a table for any number and it's square
+@purpose: Creating a program that would create a table of numbers and their squares from a specified minimum and maximum value.
 */
 
 #include <iostream>
